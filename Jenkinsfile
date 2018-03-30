@@ -34,3 +34,4 @@ node {
         sh 'kubectl apply --namespace=development -f deployment.yaml'
     }
 }
+
